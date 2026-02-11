@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.20">
+	<ConfigVersions>
+		<Metadata name="Catalog.Организации" id="5b580762-0643-44b0-bc1c-7506dc55ff3e" configVersion="588acd7d2ab88c399d99e9da1f1bde2de558b38c"/>
+		<Metadata name="Catalog.Сотрудники" id="9ac6870f-deda-4b44-baa2-23a798428e80" configVersion="6f4a1b19d0ee1df883fcd6081c7c21c569ab0cc7">
+			<Metadata name="Catalog.Сотрудники.Attribute.ГоловнаяОрганизация" id="8fcda1f0-4d7e-4af4-be00-0375f33b9199"/>
+			<Metadata name="Catalog.Сотрудники.Attribute.ФизическоеЛицо" id="efa8c26f-398a-4785-b719-e6c80e697efe"/>
+		</Metadata>
+		<Metadata name="Catalog.Сотрудники.Form.ФормаЭлемента" id="85d9718e-3534-44a8-bf6e-b05b215bf81b" configVersion="5aae8ce0b7dee9369e8f6be2e448b0e1f2718c25"/>
+		<Metadata name="Catalog.Сотрудники.Form.ФормаЭлемента.Form" id="85d9718e-3534-44a8-bf6e-b05b215bf81b.0" configVersion="391e5213866e3530ac4fb1312c6ad7d4e230a603"/>
+		<Metadata name="Catalog.Сотрудники.ManagerModule" id="9ac6870f-deda-4b44-baa2-23a798428e80.3" configVersion="581b386e1d2d39ea6e5d3dad51956c5a11786062"/>
+		<Metadata name="Catalog.ФизическиеЛица" id="d811b0d5-a756-45fd-82ca-8b557c75d162" configVersion="229c9fef33654d5b4eb2a0c3bf7a17ffdf26ec2e"/>
+		<Metadata name="CommonModule.ОбщегоНазначения" id="8aca434f-4ec7-4916-8058-5c60a49b319e" configVersion="d823bcb4a8d8a8dddcd6e8047be849e579b27b5e"/>
+		<Metadata name="CommonModule.ОбщегоНазначения.Module" id="8aca434f-4ec7-4916-8058-5c60a49b319e.0" configVersion="fd974b2ffc64211bfa75a2c6033e9ffffb3d1eae"/>
+		<Metadata name="CommonModule.УправлениеПечатью" id="a8586568-e262-4727-a69c-6dd4188a56dd" configVersion="4e465e90cf9a5815fc4129d1e39881b45b6d5e33"/>
+		<Metadata name="CommonModule.УправлениеПечатью.Module" id="a8586568-e262-4727-a69c-6dd4188a56dd.0" configVersion="053b001748e5f6d5bd79e3e3c562ee9383af8581"/>
+		<Metadata name="CommonModule.алсав_ДопРеквизиты" id="2c1e4bbd-8d81-4b4d-88f2-427d38e34907" configVersion="63cee15381e3a224b534bdf46773edc230627a5c"/>
+		<Metadata name="CommonModule.алсав_ДопРеквизиты.Module" id="2c1e4bbd-8d81-4b4d-88f2-427d38e34907.0" configVersion="cc5b8ce50cf0fcccd5bb8752e2dcf5c361c3f33e"/>
+		<Metadata name="CommonModule.алсав_ОбзегоНазначения" id="0e742e22-53a7-4036-9d9a-1c02fda3e2c0" configVersion="215b8e7d925a1ed0514a58a4925abbfe5ff2a7a5"/>
+		<Metadata name="CommonModule.алсав_ОбзегоНазначения.Module" id="0e742e22-53a7-4036-9d9a-1c02fda3e2c0.0" configVersion="38ebc7eea9c159e06e3a497f7a6c2afbf9a6202c"/>
+		<Metadata name="CommonPicture.Напоминание" id="79f7dedc-d0a2-485f-9603-a031e6a3e2a3" configVersion="d69abf397961f6fdb9c2c45744185342e160d5d4"/>
+		<Metadata name="Configuration.АЛСАВ_ЗУП" id="9bee0b99-d92b-4bec-9483-603708f05f34" configVersion="1e1364bc717a7a396892cd833370ee85f80e22b2"/>
+		<Metadata name="DefinedType.ЗначениеПоказателяРасчетаЗарплаты" id="5f22a408-d020-470d-a257-96b8bec14bca" configVersion="c224a774708ea29ee1a9cfa9951328776e512210"/>
+		<Metadata name="Document.ИзменениеПлановыхНачислений" id="ed322a67-e99f-4886-a449-a603eca15909" configVersion="eed7fa40a58793603c2432505c58f3a1a37fb04a">
+			<Metadata name="Document.ИзменениеПлановыхНачислений.Attribute.АЛСАВ_Печать_СовокупнаяТарифнаяСтавкаПропись" id="5c08a273-6f2f-4711-8e4a-63b949741f06"/>
+			<Metadata name="Document.ИзменениеПлановыхНачислений.TabularSection.Сотрудники.Attribute.СовокупнаяТарифнаяСтавка" id="87150b84-c507-4efe-b096-1fa18a1054d9"/>
+			<Metadata name="Document.ИзменениеПлановыхНачислений.TabularSection.Сотрудники.Attribute.Сотрудник" id="a37ae922-4c6f-4b62-8ef3-b78e4ea8a9e9"/>
+			<Metadata name="Document.ИзменениеПлановыхНачислений.Attribute.АЛСАВ_Печать_Сотрудник" id="aa1b6ec2-0225-437e-ad95-c656eba98fb7"/>
+			<Metadata name="Document.ИзменениеПлановыхНачислений.Attribute.АЛСАВ_Печать_СовокупнаяТарифнаяСтавка" id="b95cc3a6-a858-4260-b08c-366345f75cc4"/>
+			<Metadata name="Document.ИзменениеПлановыхНачислений.TabularSection.Сотрудники" id="ed572487-b605-451f-8878-b755e0ed3ea3"/>
+		</Metadata>
+		<Metadata name="Document.КадровыйПеревод" id="01caf5b3-923f-4fe9-a568-88bdfbcf2c8e" configVersion="db55cbcd29c4ca5be53a4fbcc85ecd87d369e425">
+			<Metadata name="Document.КадровыйПеревод.Attribute.АЛСАВ_Печать_СовокупнаяТарифнаяСтавка" id="168cf46f-d08c-47d4-8bd5-6043b41df9bc"/>
+			<Metadata name="Document.КадровыйПеревод.Attribute.СовокупнаяТарифнаяСтавка" id="1bff7771-23b2-4f65-8b6c-9a6ac97219c6"/>
+			<Metadata name="Document.КадровыйПеревод.Attribute.АЛСАВ_Печать_СовокупнаяТарифнаяСтавкаПропись" id="74d683d2-e983-4b92-aa93-6bc0a49089a0"/>
+		</Metadata>
+		<Metadata name="Document.КадровыйПеревод.ObjectModule" id="01caf5b3-923f-4fe9-a568-88bdfbcf2c8e.0" configVersion="bbd97ee338add29b4c5749c062097fccf09a1669"/>
+		<Metadata name="Document.КадровыйПереводСписком" id="e6ee7c32-ee16-46f9-8c45-5543bb1a2ca3" configVersion="5c66a0de958ebc9b0f41dc7dd9dc6e3bd340b21d">
+			<Metadata name="Document.КадровыйПереводСписком.Attribute.АЛСАВ_Печать_СовокупнаяТарифнаяСтавкаПропись" id="03251039-1e98-47da-aa55-77fc68ce37b7"/>
+			<Metadata name="Document.КадровыйПереводСписком.TabularSection.Сотрудники" id="2f34cef4-5915-4b2b-aa6b-e7e643c62fda"/>
+			<Metadata name="Document.КадровыйПереводСписком.Attribute.АЛСАВ_Печать_Сотрудник" id="4ea23b24-27f4-45f3-b0c1-15e8c292b45c"/>
+			<Metadata name="Document.КадровыйПереводСписком.Attribute.АЛСАВ_Печать_СотрудникДатаПеревода" id="af482603-7fde-488a-b4c7-69b350950c6d"/>
+			<Metadata name="Document.КадровыйПереводСписком.TabularSection.Сотрудники.Attribute.Сотрудник" id="c3dab06d-e0f1-43bd-9c90-4a673eac1f4c"/>
+			<Metadata name="Document.КадровыйПереводСписком.Attribute.АЛСАВ_Печать_СовокупнаяТарифнаяСтавка" id="cea90345-3bfe-45df-99da-872fe53c3baa"/>
+			<Metadata name="Document.КадровыйПереводСписком.TabularSection.Сотрудники.Attribute.СовокупнаяТарифнаяСтавка" id="d5da4e9a-35a6-47b2-9087-6590fe61ec20"/>
+		</Metadata>
+		<Metadata name="InformationRegister.ДокументыФизическихЛиц" id="430dd460-7fe9-418c-9cec-4d01c4a9eb0e" configVersion="5970d4ee146f7fd63fc7816f7e23ac4ff4e63b6d">
+			<Metadata name="InformationRegister.ДокументыФизическихЛиц.Dimension.Физлицо" id="ca965973-81d3-4489-89a4-763c7d04a240"/>
+		</Metadata>
+		<Metadata name="InformationRegister.ДокументыФизическихЛиц.RecordSetModule" id="430dd460-7fe9-418c-9cec-4d01c4a9eb0e.1" configVersion="18534b20c143b61bf864189b9e8f0332f8f30d98"/>
+		<Metadata name="Language.Русский" id="579b9848-30a0-4bd0-ab1a-9aa2b61501fc" configVersion="25213e939763e9e20e1bfbaf0604a339427555b3"/>
+		<Metadata name="Role.АЛСАВ_ОсновнаяРоль" id="78ee592c-c93b-480c-8ace-8656f775de12" configVersion="c2a628fe44a69cab65b4f93312b0c866f6a621ae"/>
+		<Metadata name="StyleItem.ПоясняющийТекст" id="7020d156-21d2-446f-8571-e353dabe58fc" configVersion="12959456df33f7b77e513bd2eb72be17439036f5"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
